@@ -229,6 +229,10 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京",北京影视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",北京体育休闲
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",北京纪实科教
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226559/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕2
@@ -307,7 +311,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",超级综艺
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",潮剧电视剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",超级电视剧
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",潮妈辣婆
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8?
@@ -315,7 +319,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",电视剧
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",电视剧1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",爱情喜剧
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",动作电影
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8?
@@ -333,8 +337,6 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",欢乐剧场
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",纪实科教
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226559/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",家庭剧场
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",家庭剧场
@@ -359,7 +361,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",军旅剧场
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",快乐钓鱼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",快乐垂钓
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",晴彩广场舞
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8?
@@ -367,13 +369,11 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",体育
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",体育休闲
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",无台标
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",无台标2
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",炫舞纬来
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",炫舞未来
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",炫舞未来
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8?
@@ -389,7 +389,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226387/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",重温经典
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",SPORT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",晴彩篮球
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",0963[1920x1080]
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?
