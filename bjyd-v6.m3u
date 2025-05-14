@@ -239,9 +239,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226559/1.m3u8?
-#EXTINF:-1,tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png" group-title="咪咕",咪咕
+#EXTINF:-1,tvg-id="咪咕" tvg-name="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png" group-title="咪咕",咪咕
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8?
-#EXTINF:-1,tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png" group-title="咪咕",咪咕2
+#EXTINF:-1,tvg-id="咪咕2" tvg-name="咪咕2" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png" group-title="咪咕",咪咕2
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8?
 #EXTINF:-1,tvg-id="咪咕3" tvg-name="咪咕3" tvg-logo="https://epg.112114.xyz/logo/咪咕3.png" group-title="咪咕",咪咕3
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8?
