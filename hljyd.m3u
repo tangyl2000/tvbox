@@ -153,6 +153,10 @@ http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
 http://39.134.64.87:6610/PLTV/88888888/224/3221226474/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="🎬其他频道",凤凰中文
+http://39.164.174.139:5000/nl.m3u8?id=FHZWHD
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="🎬其他频道",凤凰资讯
+http://39.164.174.139:5000/nl.m3u8?id=FHZXHD
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="🎬其他频道",黑莓动画
 http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="🎬其他频道",黑莓电影
